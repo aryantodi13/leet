@@ -1,0 +1,37 @@
+class Solution {
+        public int mincostTickets(int[] days, int[] costs) {
+        /*
+         * APPROACH : Recursion
+         * Minimum of using 1, 7, and 30 day pass starting from day 1
+         */
+        int[] dp= new int[days.length];
+        Arrays.fill(dp, -1);
+        int cost = cost(days, costs, 0, dp);
+
+        // Final return
+        return cost;
+    }
+    public int cost(int[] days, int[] costs, int index, int[] dp){
+        // Local variables
+        int i;
+        // Base case
+        if(index >= days.length) return 0;
+        if(dp[index] != -1) return dp[index];
+
+        // Case 1 : 1 day pass
+        int cost1 = costs[0] + cost(days, costs, index + 1, dp);
+
+        // Case 2 : 7 day pass
+        for(i = index; i < days.length; i ++) if(days[i] - days[index] >= 7 )break;
+        int cost2 = costs[1] + cost(days, costs, i, dp);
+
+        // Case 3 : 30 day pass
+        for(i = index; i < days.length; i ++) if(days[i] - days[index] >= 30 )break;
+        int cost3 = costs[2] + cost(days, costs, i, dp);
+
+        int minCost  = Math.min(cost1, Math.min(cost2, cost3));
+        dp[index] = minCost;
+        return minCost;
+    }
+
+}
