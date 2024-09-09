@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantodi13/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/aryantodi13/leet/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/aryantodi13/leet/tree/master/0416-partition-equal-subset-sum) |
 ## Breadth-First Search
@@ -17,5 +18,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantodi13/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/aryantodi13/leet/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
