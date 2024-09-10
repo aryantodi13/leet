@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/aryantodi13/leet/tree/master/0060-permutation-sequence) |
 | [0279-perfect-squares](https://github.com/aryantodi13/leet/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/aryantodi13/leet/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/aryantodi13/leet/tree/master/0139-word-break) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/aryantodi13/leet/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
