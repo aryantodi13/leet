@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantodi13/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/aryantodi13/leet/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/aryantodi13/leet/tree/master/0416-partition-equal-subset-sum) |
+| [1435-xor-queries-of-a-subarray](https://github.com/aryantodi13/leet/tree/master/1435-xor-queries-of-a-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/aryantodi13/leet/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/aryantodi13/leet/tree/master/0371-sum-of-two-integers) |
+| [1435-xor-queries-of-a-subarray](https://github.com/aryantodi13/leet/tree/master/1435-xor-queries-of-a-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/aryantodi13/leet/tree/master/0060-permutation-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/aryantodi13/leet/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
