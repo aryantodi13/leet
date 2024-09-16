@@ -1,10 +1,7 @@
 class Solution {
-           public int findMinDifference(List<String> timePoints) {
+              public int findMinDifference(List<String> timePoints) {
         if(timePoints.size() == 2) return calcMin(timePoints.get(0), timePoints.get(1));
-        timePoints.sort((String x, String y) -> {
-            if(Integer.parseInt((x.split(":")[0])) == Integer.parseInt((y.split(":")[0]))) return Integer.parseInt(x.split(":")[1]) - Integer.parseInt(y.split(":")[1]);
-            return Integer.parseInt(x.split(":")[0]) - Integer.parseInt(y.split(":")[0]);
-        });
+        timePoints.sort(String::compareTo);
         int li = 0;
         int ri = 1;
         int minTime = calcMin(timePoints.get(0), timePoints.get(timePoints.size() - 1));
