@@ -84,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/aryantodi13/leet/tree/master/2428-equal-row-and-column-pairs) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryantodi13/leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryantodi13/leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryantodi13/leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
