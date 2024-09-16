@@ -20,7 +20,6 @@ class Solution {
         int lm = Integer.valueOf(l[1]);
         int rh = Integer.valueOf(r[0]);
         int rm = Integer.valueOf(r[1]);
-
         int diff = Math.abs((lh - rh) * 60 + (lm - rm));
         diff = Math.min(diff, 1440 - diff);
         return diff;
