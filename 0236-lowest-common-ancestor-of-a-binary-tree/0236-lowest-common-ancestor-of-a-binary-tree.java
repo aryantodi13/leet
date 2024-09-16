@@ -16,7 +16,6 @@ class Solution {
         TreeNode left = null, right = null;
         if(root.left != null) left = calc(root.left, p, q);
         if(root.right != null) right = calc(root.right, p, q);
-
         if(left != null && right != null) return root;
         if(left != null ) return left;
         if(right != null ) return right;
