@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/aryantodi13/leet/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/aryantodi13/leet/tree/master/0242-valid-anagram) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aryantodi13/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryantodi13/leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aryantodi13/leet/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/aryantodi13/leet/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/aryantodi13/leet/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/aryantodi13/leet/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aryantodi13/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aryantodi13/leet/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/aryantodi13/leet/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/aryantodi13/leet/tree/master/0539-minimum-time-difference) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aryantodi13/leet/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
