@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/aryantodi13/leet/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/aryantodi13/leet/tree/master/0386-lexicographical-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryantodi13/leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/aryantodi13/leet/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
