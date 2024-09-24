@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/aryantodi13/leet/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/aryantodi13/leet/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/aryantodi13/leet/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/aryantodi13/leet/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/aryantodi13/leet/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aryantodi13/leet/tree/master/0345-reverse-vowels-of-a-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/aryantodi13/leet/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aryantodi13/leet/tree/master/0345-reverse-vowels-of-a-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aryantodi13/leet/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/aryantodi13/leet/tree/master/1894-merge-strings-alternately) |
