@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/aryantodi13/leet/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/aryantodi13/leet/tree/master/0605-can-place-flowers) |
 | [0729-my-calendar-i](https://github.com/aryantodi13/leet/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/aryantodi13/leet/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aryantodi13/leet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aryantodi13/leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aryantodi13/leet/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/aryantodi13/leet/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aryantodi13/leet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryantodi13/leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Brainteaser
@@ -157,16 +159,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/aryantodi13/leet/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/aryantodi13/leet/tree/master/0731-my-calendar-ii) |
 ## Design
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/aryantodi13/leet/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/aryantodi13/leet/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/aryantodi13/leet/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/aryantodi13/leet/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/aryantodi13/leet/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/aryantodi13/leet/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
