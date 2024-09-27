@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/aryantodi13/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/aryantodi13/leet/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/aryantodi13/leet/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/aryantodi13/leet/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/aryantodi13/leet/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aryantodi13/leet/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aryantodi13/leet/tree/master/1435-xor-queries-of-a-subarray) |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/aryantodi13/leet/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aryantodi13/leet/tree/master/0731-my-calendar-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/aryantodi13/leet/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
