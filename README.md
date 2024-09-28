@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/aryantodi13/leet/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/aryantodi13/leet/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aryantodi13/leet/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/aryantodi13/leet/tree/master/0859-design-circular-deque) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aryantodi13/leet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aryantodi13/leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aryantodi13/leet/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/aryantodi13/leet/tree/master/0208-implement-trie-prefix-tree) |
 | [0729-my-calendar-i](https://github.com/aryantodi13/leet/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aryantodi13/leet/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/aryantodi13/leet/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -184,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/aryantodi13/leet/tree/master/0643-maximum-average-subarray-i) |
+## Linked List
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/aryantodi13/leet/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/aryantodi13/leet/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
