@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/aryantodi13/leet/tree/master/0859-design-circular-deque) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aryantodi13/leet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aryantodi13/leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aryantodi13/leet/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aryantodi13/leet/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/aryantodi13/leet/tree/master/2428-equal-row-and-column-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aryantodi13/leet/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aryantodi13/leet/tree/master/0242-valid-anagram) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aryantodi13/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryantodi13/leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aryantodi13/leet/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aryantodi13/leet/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/aryantodi13/leet/tree/master/2428-equal-row-and-column-pairs) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aryantodi13/leet/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aryantodi13/leet/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aryantodi13/leet/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aryantodi13/leet/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Greedy
 |  |
