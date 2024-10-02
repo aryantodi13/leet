@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/aryantodi13/leet/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aryantodi13/leet/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/aryantodi13/leet/tree/master/0859-design-circular-deque) |
+| [1256-rank-transform-of-an-array](https://github.com/aryantodi13/leet/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aryantodi13/leet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aryantodi13/leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aryantodi13/leet/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/aryantodi13/leet/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/aryantodi13/leet/tree/master/0242-valid-anagram) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aryantodi13/leet/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/aryantodi13/leet/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryantodi13/leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aryantodi13/leet/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aryantodi13/leet/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aryantodi13/leet/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/aryantodi13/leet/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/aryantodi13/leet/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/aryantodi13/leet/tree/master/1256-rank-transform-of-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aryantodi13/leet/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
