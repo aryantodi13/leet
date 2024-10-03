@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantodi13/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/aryantodi13/leet/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/aryantodi13/leet/tree/master/0179-largest-number) |
+| [0283-move-zeroes](https://github.com/aryantodi13/leet/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/aryantodi13/leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/aryantodi13/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/aryantodi13/leet/tree/master/0539-minimum-time-difference) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/aryantodi13/leet/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/aryantodi13/leet/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aryantodi13/leet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/aryantodi13/leet/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aryantodi13/leet/tree/master/1798-max-number-of-k-sum-pairs) |
