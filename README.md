@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/aryantodi13/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aryantodi13/leet/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryantodi13/leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aryantodi13/leet/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/aryantodi13/leet/tree/master/1894-merge-strings-alternately) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aryantodi13/leet/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aryantodi13/leet/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/aryantodi13/leet/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aryantodi13/leet/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Linked List
 |  |
 | ------- |
