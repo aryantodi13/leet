@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/aryantodi13/leet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aryantodi13/leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aryantodi13/leet/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/aryantodi13/leet/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aryantodi13/leet/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/aryantodi13/leet/tree/master/2428-equal-row-and-column-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aryantodi13/leet/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/aryantodi13/leet/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryantodi13/leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aryantodi13/leet/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/aryantodi13/leet/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aryantodi13/leet/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/aryantodi13/leet/tree/master/2428-equal-row-and-column-pairs) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aryantodi13/leet/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/aryantodi13/leet/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aryantodi13/leet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryantodi13/leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1694-make-sum-divisible-by-p](https://github.com/aryantodi13/leet/tree/master/1694-make-sum-divisible-by-p) |
 ## Brainteaser
 |  |
 | ------- |
