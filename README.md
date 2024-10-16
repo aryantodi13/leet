@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aryantodi13/leet/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aryantodi13/leet/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/aryantodi13/leet/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/aryantodi13/leet/tree/master/0151-reverse-words-in-a-string) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aryantodi13/leet/tree/master/0020-valid-parentheses) |
 | [1002-maximum-width-ramp](https://github.com/aryantodi13/leet/tree/master/1002-maximum-width-ramp) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/aryantodi13/leet/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
