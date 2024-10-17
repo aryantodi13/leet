@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/aryantodi13/leet/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/aryantodi13/leet/tree/master/0371-sum-of-two-integers) |
 | [0539-minimum-time-difference](https://github.com/aryantodi13/leet/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/aryantodi13/leet/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aryantodi13/leet/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aryantodi13/leet/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/aryantodi13/leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/aryantodi13/leet/tree/master/0605-can-place-flowers) |
+| [0670-maximum-swap](https://github.com/aryantodi13/leet/tree/master/0670-maximum-swap) |
 ## Binary Search
 |  |
 | ------- |
