@@ -26,7 +26,7 @@ class Solution {
     }
     public TreeNode fn(TreeNode root, int depth){
         int num = depth + 1 < depSums.size() ? depSums.get(depth + 1) : 0;
-        System.out.println(num);
+        //System.out.println(num);
         // Get sum of children
         int chSum = 0;
         if(depth != 0){
