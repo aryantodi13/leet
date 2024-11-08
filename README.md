@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/aryantodi13/leet/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryantodi13/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aryantodi13/leet/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1940-maximum-xor-for-each-query](https://github.com/aryantodi13/leet/tree/master/1940-maximum-xor-for-each-query) |
 | [2428-equal-row-and-column-pairs](https://github.com/aryantodi13/leet/tree/master/2428-equal-row-and-column-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aryantodi13/leet/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aryantodi13/leet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/aryantodi13/leet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryantodi13/leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryantodi13/leet/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/aryantodi13/leet/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aryantodi13/leet/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aryantodi13/leet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Divide and Conquer
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/aryantodi13/leet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryantodi13/leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/aryantodi13/leet/tree/master/1694-make-sum-divisible-by-p) |
+| [1940-maximum-xor-for-each-query](https://github.com/aryantodi13/leet/tree/master/1940-maximum-xor-for-each-query) |
 ## Brainteaser
 |  |
 | ------- |
