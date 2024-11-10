@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aryantodi13/leet/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aryantodi13/leet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aryantodi13/leet/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aryantodi13/leet/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/aryantodi13/leet/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aryantodi13/leet/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aryantodi13/leet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aryantodi13/leet/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/aryantodi13/leet/tree/master/3394-minimum-array-end) |
 ## Divide and Conquer
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/aryantodi13/leet/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aryantodi13/leet/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aryantodi13/leet/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Linked List
 |  |
 | ------- |
