@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/aryantodi13/leet/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/aryantodi13/leet/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aryantodi13/leet/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2716-prime-subtraction-operation](https://github.com/aryantodi13/leet/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/aryantodi13/leet/tree/master/2428-equal-row-and-column-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aryantodi13/leet/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aryantodi13/leet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2716-prime-subtraction-operation](https://github.com/aryantodi13/leet/tree/master/2716-prime-subtraction-operation) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aryantodi13/leet/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aryantodi13/leet/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Bit Manipulation
@@ -200,11 +202,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/aryantodi13/leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/aryantodi13/leet/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/aryantodi13/leet/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/aryantodi13/leet/tree/master/2716-prime-subtraction-operation) |
 ## Binary Search
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/aryantodi13/leet/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aryantodi13/leet/tree/master/0731-my-calendar-ii) |
+| [2716-prime-subtraction-operation](https://github.com/aryantodi13/leet/tree/master/2716-prime-subtraction-operation) |
 ## Design
 |  |
 | ------- |
@@ -246,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/aryantodi13/leet/tree/master/1002-maximum-width-ramp) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/aryantodi13/leet/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
