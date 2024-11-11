@@ -3,8 +3,10 @@ class Solution {
         if(nums.length == 1) return true;
         int[] primes = new int[1001];
         int primeTemp = 0;
+        int maxVal = 0;
+        for(int i = 0; i < nums.length; i ++) maxVal = nums[i] > maxVal ? nums[i] : maxVal;
         ArrayList<Integer> pri = new ArrayList<>();
-        for(int i = 2; i < 1001; i ++){
+        for(int i = 2; i <= maxVal; i ++){
             int count = 0;
             //System.out.println((int) Math.sqrt(i));
             for(int j = 2; j <= (int) Math.sqrt(i); j ++){
