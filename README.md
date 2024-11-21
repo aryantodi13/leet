@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/aryantodi13/leet/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1940-maximum-xor-for-each-query](https://github.com/aryantodi13/leet/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/aryantodi13/leet/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/aryantodi13/leet/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/aryantodi13/leet/tree/master/2428-equal-row-and-column-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aryantodi13/leet/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aryantodi13/leet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -163,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/aryantodi13/leet/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/aryantodi13/leet/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/aryantodi13/leet/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/aryantodi13/leet/tree/master/2428-equal-row-and-column-pairs) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/aryantodi13/leet/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
